@@ -24,7 +24,7 @@
     "d3-request": "^1.0.5",
     "d3-scale": "^1.0.6",
     "gl-matrix": "^3.0.0",
-    "highlight.js": "^9.7.0",
+    "highlight.js": "^10.1.2",
     "history": "3.0.0",
     "immutable": "^3.7.5",
     "mapbox-gl": "^1.4.1",
